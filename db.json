@@ -1,0 +1,67 @@
+{
+  "uploadVideos": [
+    {
+      "id": "c211",
+      "caption": "Vazha Trailer",
+      "imgUrl": "https://www.moviespuzzle.com/wp-content/uploads/2024/08/vaa2-819x1024.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "a033",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "2ed2",
+          "caption": "Leo Trailer",
+          "imgUrl": "https://i.ytimg.com/vi/Po3jStA673E/maxresdefault.jpg",
+          "youTubeLink": "https://www.youtube.com/embed/Po3jStA673E"
+        }
+      ]
+    },
+    {
+      "id": "9d46",
+      "categoryName": "Tutorials",
+      "allVideos": [
+        {
+          "id": "73dc",
+          "caption": "CSS",
+          "imgUrl": "https://images.javatpoint.com/csspages/images/css-tutorial.png",
+          "youTubeLink": "https://www.youtube.com/embed/1PnVor36_40"
+        },
+        {
+          "id": "4bbf",
+          "caption": "JS Tutorial",
+          "imgUrl": "https://e7.pngegg.com/pngimages/503/848/png-clipart-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text.png",
+          "youTubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk"
+        }
+      ]
+    },
+    {
+      "categoryName": "Movies",
+      "allVideos": [],
+      "id": "Rs_9PiK"
+    }
+  ],
+  "history": [
+    {
+      "id": "b8f2",
+      "caption": "JS Tutorial",
+      "youTubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "11/6/2024, 10:28:46 AM GMT+5:30"
+    },
+    {
+      "caption": "Leo Trailer",
+      "youTubeLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "11/7/2024, 9:19:00 AM GMT+5:30",
+      "id": "gb86nJ7"
+    },
+    {
+      "caption": "Vazha Trailer",
+      "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "11/7/2024, 9:19:17 AM GMT+5:30",
+      "id": "SgqSXwY"
+    }
+  ]
+}
